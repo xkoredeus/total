@@ -217,17 +217,17 @@ header {
 	border: 1px solid #1ed8ff;
 	background-color: #1ed8ff;
 }
-.adv_1 {
+.test_1 {
 	padding: 70px 0;
 }
-	.adv_1__item {
+	.test_1__item {
 		text-align: center;
 	}
-		.adv_1__item .adv__item-ttl {
+		.test_1__item .test__item-ttl {
 			margin-top: 20px;
 			text-transform: uppercase;
 		}
-		.adv_1__item .adv__item-ttl {
+		.test_1__item .test__item-ttl {
 			display: -webkit-flex;
 			display: -moz-flex;
 			display: -ms-flex;
@@ -240,7 +240,7 @@ header {
 			flex-direction: column;
 			text-align: center;
 		}
-		.adv_1__item .adv__item-ttl span:nth-child(1) {
+		.test_1__item .test__item-ttl span:nth-child(1) {
 			font-weight: 600;
 		}
 .projects {
@@ -282,11 +282,11 @@ header {
 		.projects__right .projects__ttl{
 			font-size: 16px;
 		}
-.adv_2 {
+.test_2 {
 	padding: 50px 0;
 	border-bottom: 1px dashed #595959;
 }
-	.adv_2__item {
+	.test_2__item {
 		display: -webkit-flex;
 		display: -moz-flex;
 		display: -ms-flex;
@@ -296,13 +296,13 @@ header {
 		align-items: center;
 		text-transform: uppercase;
 	}
-		.adv_2__item img {
+		.test_2__item img {
 			margin-right: 10px;
 		}
-		.adv_2__item span {
+		.test_2__item span {
 			font-weight: 600;
 		}
-.adv_2__bot {
+.test_2__bot {
 	margin-top: 20px;
 	display: -webkit-flex;
 	display: -moz-flex;
